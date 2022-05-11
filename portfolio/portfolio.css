@@ -1,0 +1,153 @@
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding:15px;
+}
+.navbar a{
+    text-decoration: none;
+    
+
+
+}
+.logo{
+    margin-right: 50px;
+
+}
+.list{
+    list-style:disc;
+    display: flex;
+    gap:25px;
+    font-weight: 900;
+    color:aqua;
+}
+#toggler,
+    .navbar label{
+        display: none;
+
+    }
+    body{
+        background: url("./thirteen.jpg");
+        background-size: cover;
+        font-family: cursive;
+        color:white;
+        background-attachment: fixed;
+    }
+    .one{
+        text-transform: capitalize;
+        text-shadow: 50px;
+    }
+    .two{
+        align-content: center;
+        text-align: center;
+    }
+    .three{
+        color:greenyellow;
+    }
+    .four{
+        color:red;
+    }
+    .five{
+        color:aquamarine;
+    }
+    .six{
+        color:white;
+        text-transform: capitalize;
+        text-align: center;
+    }
+    .seven{
+        color:aquamarine;
+    }
+    .nine{
+        color:dodgerblue;
+    }
+    .ten{
+        color:darkmagenta;
+    }
+    .eleven{
+        color:salmon;
+
+    }
+    .twelve{
+        color:antiquewhite;
+
+    }
+    .thirteen{
+        color:yellow;
+    }
+    .fourteen{
+        color:cadetblue;
+    }
+    .fifteen{
+        color:chartreuse;
+        text-transform: capitalize;
+    }
+    .sixteen{
+        width:200px;
+        display:block;
+        float: left;
+        border:2px;
+        border-style:hidden;
+        border-color:brown;
+        padding: 30px;
+    }
+    .seventeen{
+        color:aqua;
+    }
+    .eighteen{
+        color:gold;
+        align-items: center;
+       padding: 10px;
+        gap: 10px;
+        align-self: center;
+        align-content: center;
+        text-align: center;
+    }
+    .nineteen{
+        text-transform: capitalize;
+    }
+    .twenty{
+        color:chartreuse;
+        text-transform: capitalize;
+    }
+    .twentytwo{
+        color:aqua;
+    }
+    .twentythree{
+        color:cyan;
+        text-decoration-style:dotted;
+        text-transform: capitalize;
+    }
+    .twentyfour{
+        color:aquamarine;
+        text-transform: capitalize;
+    }
+    .twentyfive{
+        color:gold;
+    }
+    .twentysix{
+        border:100px;
+        border-color: chartreuse;
+        border-style: solid;
+        display:block;
+        align-items: center;
+        align-content: center;
+        box-sizing: border-box
+       
+
+    }
+    .thirtyseven{
+        text-transform: capitalize;
+    }
+    .thirtyeight{
+        float:left;
+        
+        
+    }
+    .fourty{
+        color:gold;
+    }
+   
+
